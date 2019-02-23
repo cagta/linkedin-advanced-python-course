@@ -9,3 +9,4 @@ _____________
 * [Iterators](iterators.py)
 * [Itertools](itertools.py)
 * [DocStrings](docstrings.py)
+* [Lambda](lambda.py)
