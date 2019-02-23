@@ -12,3 +12,4 @@ _____________
 * [Lambda](lambda.py)
 * [Keyword Only Argument](keyword-only-argument.py)
 * [Named Tuple](named-tuple.py)
+* [Counter](counter.py)
