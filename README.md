@@ -13,3 +13,4 @@ _____________
 * [Keyword Only Argument](keyword-only-argument.py)
 * [Named Tuple](named-tuple.py)
 * [Counter](counter.py)
+* [Deque(Double Ended Queue)](deque.py)
