@@ -7,3 +7,4 @@ _____________
 * [Boolean Logic](boolean-logic.py)
 * [Template String](template-string.py)
 * [Iterators](iterators.py)
+* [Itertools](itertools.py)
