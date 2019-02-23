@@ -8,3 +8,4 @@ _____________
 * [Template String](template-string.py)
 * [Iterators](iterators.py)
 * [Itertools](itertools.py)
+* [DocStrings](docstrings.py)
