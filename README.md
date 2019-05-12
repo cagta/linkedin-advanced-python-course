@@ -1,5 +1,5 @@
 # linkedin-advanced-python-course
-This repo contains my notes about an advanced python course on Linkedin.
+This repo contains my notes about an advanced python course on [Linkedin](https://www.linkedin.com/learning/advanced-python/next-steps?autoplay=true).
 
 **Topics**
 _____________
